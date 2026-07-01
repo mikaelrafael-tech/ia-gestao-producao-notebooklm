@@ -58,4 +58,4 @@ respostas/
 
 Mapa mental gerado no NotebookLM durante os estudos sobre Gestão da Produção Industrial.
 
-![Mapa Mental](imagens/Mapa%20Mental%20NotebookLM%20(1).png)
+![Mapa Mental](imagens/mapa-mental.png)
