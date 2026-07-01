@@ -51,3 +51,11 @@ respostas/
 ## Autor
 
 **Rafael**
+
+---
+
+## 🧠 Mapa Mental
+
+Mapa mental gerado no NotebookLM durante os estudos sobre Gestão da Produção Industrial.
+
+![Mapa Mental](imagens/Mapa%20Mental%20NotebookLM%20(1).png)
